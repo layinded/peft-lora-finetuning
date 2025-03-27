@@ -1,6 +1,6 @@
 # Lightweight Fine-Tuning of a Foundation Model using Hugging Face PEFT (LoRA)
 
-This project is part of the **Udacity Generative AI Nanodegree**, powered by **Accenture**. It focuses on applying **Parameter-Efficient Fine-Tuning (PEFT)** using **LoRA (Low-Rank Adaptation)** to fine-tune a Hugging Face transformer model for a sequence classification task.
+This project is part of the **Bertelsmann Next Generation Tech Booster** and **Udacity**. It focuses on applying **Parameter-Efficient Fine-Tuning (PEFT)** using **LoRA (Low-Rank Adaptation)** to fine-tune a Hugging Face transformer model for a sequence classification task.
 
 ## ✅ Project Status: Passed Review
 > *"You have demonstrated a very good understanding of foundational models and Parameter Efficient Fine Tuning... Keep up all the great work!"*  
