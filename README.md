@@ -170,3 +170,15 @@ pip install -r requirements.txt
 from peft import AutoPeftModelForSequenceClassification
 model = AutoPeftModelForSequenceClassification.from_pretrained("peftmodel-gpt2-sentiment")
 ```
+
+---
+
+### 🎓 Supported By
+
+<a href="https://www.udacity.com/bertelsmann-tech-scholarships" target="_blank">
+  <img src="https://user-images.githubusercontent.com/85645859/235321029-5bb6d4d3-0736-4bd1-8264-eaf6e4c3b94e.png" alt="Bertelsmann Next Gen Tech Booster" height="60"/>
+</a>
+
+This project was completed as part of the **Bertelsmann Next Generation Tech Booster Scholarship**, powered by **Udacity**.
+
+---
